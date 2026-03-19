@@ -1,27 +1,20 @@
-# 🔢 Jogo do Número Secreto
+# Number Guessing Game
 
-Jogo interativo onde o usuário tenta adivinhar o número sorteado pelo sistema.
+## 🚀 Live Demo
+[🔗 Acessar Projeto](https://fredjoaquim.github.io/js-game-number-guess/)
 
-## 🚀 Demonstração
-🔗 [Acesse o jogo](https://fredjoaquim.github.io/jogo-do-numero-secreto/)
+## 📌 Sobre
+Jogo de adivinhação baseado em lógica de tentativa e erro.
 
-## 🧠 Funcionalidades
-- Sorteio de número aleatório  
-- Feedback ao usuário (“maior” / “menor”)  
-- Interface simples e objetiva  
+## 🛠️ Tecnologias
+- JavaScript
+- HTML5
+- CSS3
 
-## 🛠️ Tecnologias utilizadas
-- HTML5  
-- CSS3  
-- JavaScript  
+## 🎯 Funcionalidades
+- Número aleatório
+- Feedback ao usuário
+- Controle de tentativas
 
-## 👨‍💻 Autor
-**Fred Joaquim dos Santos**  
-📧 [fredjoaquimprogramador@gmail.com](mailto:fredjoaquimprogramador@gmail.com)  
-🐙 [GitHub](https://github.com/fredjoaquim)  
-💼 [LinkedIn](https://linkedin.com/in/fredjoaquim)
-
----
-
-## 📝 Licença
-Uso livre para fins educacionais.
+## 📷 Preview
+![Preview](./assets/preview.png)
