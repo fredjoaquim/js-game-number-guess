@@ -15,6 +15,3 @@ Jogo de adivinhação baseado em lógica de tentativa e erro.
 - Número aleatório
 - Feedback ao usuário
 - Controle de tentativas
-
-## 📷 Preview
-![Preview](./assets/preview.png)
